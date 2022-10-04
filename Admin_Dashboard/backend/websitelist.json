@@ -1,0 +1,79 @@
+{
+    "Sites": [
+        {
+            "Site": "www.googlesyndication.com",
+            "IP": "172.217.163.65",
+            "time": "1591131271.080291109"
+        },
+        {
+            "Site": "www.googlesyndication.com",
+            "IP": "172.217.163.65",
+            "time": "1591131271.114983646"
+        },
+        {
+            "Site": "pagead2.googlesyndication.com",
+            "IP": "172.217.160.130",
+            "time": "1591131271.120293783"
+        },
+        {
+            "Site": "r3---sn-5jucgv5qc5oq-cagz.googlevideo.com",
+            "IP": "172.217.160.130",
+            "time": "1591131271.288469560"
+        },
+        {
+            "Site": "r3---sn-5jucgv5qc5oq-cagz.googlevideo.com",
+            "IP": "172.217.160.130",
+            "time": "1591131271.288542172"
+        },
+        {
+            "Site": "r3---sn-5jucgv5qc5oq-cagz.googlevideo.com",
+            "IP": "202.83.21.206",
+            "time": "1591131271.292382837"
+        },
+        {
+            "Site": "securepubads.g.doubleclick.net",
+            "IP": "216.58.196.162",
+            "time": "1591131271.416664528"
+        },
+        {
+            "Site": "i.ytimg.com",
+            "IP": "216.58.196.162",
+            "time": "1591131271.437648158"
+        },
+        {
+            "Site": "i.ytimg.com",
+            "IP": "172.217.167.150",
+            "time": "1591131271.441864143"
+        },
+        {
+            "Site": "www.google.com",
+            "IP": "172.217.167.150",
+            "time": "1591131280.626179039"
+        },
+        {
+            "Site": "www.google.com",
+            "IP": "172.217.163.164",
+            "time": "1591131280.632709748"
+        },
+        {
+            "Site": "www.google.co.in",
+            "IP": "172.217.163.164",
+            "time": "1591131280.810090943"
+        },
+        {
+            "Site": "www.google.co.in",
+            "IP": "172.217.163.163",
+            "time": "1591131280.816107614"
+        },
+        {
+            "Site": "www.googleadservices.com",
+            "IP": "172.217.163.163",
+            "time": "1591131281.704510008"
+        },
+        {
+            "Site": "www.googleadservices.com",
+            "IP": "172.217.163.98",
+            "time": "1591131281.708688009"
+        }
+    ]
+}
